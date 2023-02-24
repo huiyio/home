@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://qintia.com/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://pan.llio.cc/",
   },
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "https://music.llio.cc/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://tuxs.cn/",
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "助手",
+    link: "https://tool.llio.cc/",
   },
   {
     icon: Flask,
     name: "实验室",
-    link: "https://lab.imsyy.top/",
+    link: "https://lab.llio.cc/",
   },
 ];
 
